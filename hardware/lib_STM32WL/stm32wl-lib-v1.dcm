@@ -1,0 +1,19 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP MAMWLExx
+D Low Power Radio Module with M4/M0+ Core, 128Kbyte Flash, 48Kbyte RAM
+K STM32Wl, Cortex M4, M0+
+$ENDCMP
+#
+$CMP STM32WL-LoRa-E5
+D STM32WLE5JC SX126X and MCU for LoRaWAN Wireless Sensor Network & IoT devices - EU868 & US915
+K STM32WLE5JC, LoRa, LoRaWAN
+$ENDCMP
+#
+$CMP STM32WLxx_QFN48
+D Ultra-low-power, Dual-Core Arm® Cortex®-M4 and M0+ @48 MHz with 256 Kbytes of Flash memory, 64 Kbytes of SRAM. LoRa®, (G)FSK, (G)MSK, BPSK modulations. AES 256-bit
+K LoRa, LoRaWAN, STM32
+F https://www.st.com/resource/en/datasheet/stm32wle5jc.pdf
+$ENDCMP
+#
+#End Doc Library

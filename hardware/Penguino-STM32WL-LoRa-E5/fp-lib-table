@@ -1,0 +1,4 @@
+(fp_lib_table
+  (lib (name stm32wl-lib-v1)(type KiCad)(uri ${KIPRJMOD}/../lib_STM32WL/stm32wl-lib-v1.pretty)(options "")(descr ""))
+  (lib (name penguino_v1)(type KiCad)(uri ${KIPRJMOD}/../lib_Penguino/penguino_v1.pretty)(options "")(descr ""))
+)
