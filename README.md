@@ -3,7 +3,7 @@
 
 
 ## About the Penguino Feather breakout
-Managed to fit everything on +2 layer (H1.6mm) PCB for reduced cost. Careful design choices allowed to have good GND plane on the back for to achieve good (theoretical) RF performance. 
+Managed to fit everything on a +2 layer (H1.6mm) low-cost PCB. Careful design choices allowed to have a good GND plane on the back to to achieve good (theoretical) RF performance. 
 
 ![Penguino-STM32WL-LoRa-E5](docs\Penguino-STM32-E5.PNG)
 _Current version: 0.1_
