@@ -5,7 +5,7 @@
 ## About the Penguino Feather breakout
 Managed to fit everything on +2 layer (H1.6mm) PCB for reduced cost. Careful design choices allowed to have good GND plane on the back for to achieve good (theoretical) RF performance. 
 
-![Penguino-STM32WL-LoRa-E5](docs\Penguino-STM32-E5.PNG)
+![Penguino-STM32WL-LoRa-E5](docs/Penguino-STM32-E5.PNG)
 _Current version: 0.1_
 
 Board requirements are standard: 
@@ -13,7 +13,7 @@ Board requirements are standard:
 - 0.3mm drill
 
 
-![Penguino-STM32WL-LoRa-E5-back](docs\Penguino-STM32-E5-sbs.png)
+![Penguino-STM32WL-LoRa-E5-back](docs/Penguino-STM32-E5-sbs.png)
 
 ### Specs (SoC): 
 - [STM32WLE5JC](https://www.st.com/en/microcontrollers-microprocessors/stm32wle5jc.html) Wireless SoC
