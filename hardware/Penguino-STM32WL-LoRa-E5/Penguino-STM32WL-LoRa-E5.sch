@@ -6,7 +6,7 @@ encoding utf-8
 Sheet 1 1
 Title "Penguino STM32WL LoRa-E5"
 Date "2020-11-24"
-Rev "0.1"
+Rev "0.2"
 Comp "Makertronika Labs"
 Comment1 "https://makertronika.com/"
 Comment2 "Drawn by: Orkhan Amiraslan (azerimaker)"
@@ -637,7 +637,7 @@ U 1 1 5F4DFA12
 P 1075 3050
 F 0 "J2" H 625 2975 50  0000 C CNN
 F 1 "USB_C_Receptacle_USB2.0" H 1182 3826 50  0000 C CNN
-F 2 "Connector_USB:USB_C_Receptacle_Palconn_UTC16-G" H 1225 3050 50  0001 C CNN
+F 2 "Connector_USB:USB_C_Receptacle_HRO_TYPE-C-31-M-12" H 1225 3050 50  0001 C CNN
 F 3 "https://www.usb.org/sites/default/files/documents/usb_type-c.zip" H 1225 3050 50  0001 C CNN
 F 4 "TYPE-C-31-M-12" H 1075 3050 50  0001 C CNN "MPN"
 F 5 "~" H 1075 3050 50  0001 C CNN "LCSC_Part#"
@@ -2550,8 +2550,6 @@ Wire Notes Line
 	8800 6475 11175 6475
 Wire Notes Line
 	6550 6475 8750 6475
-Text GLabel 3150 5175 2    50   Input ~ 0
-NRST
 Text GLabel 6025 3775 2    50   Input ~ 0
 RST
 Text GLabel 9400 5175 0    50   Input ~ 0
@@ -3491,4 +3489,6 @@ Wire Wire Line
 	7900 4925 7850 4925
 Wire Wire Line
 	7850 5025 7900 5025
+Text GLabel 3150 5175 2    50   Input ~ 0
+RST
 $EndSCHEMATC
