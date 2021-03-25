@@ -5,7 +5,7 @@
 ## About the Penguino Feather breakout
 Managed to fit everything on a +2 layer (H1.6mm) low-cost PCB. Careful design choices allowed to have a good GND plane on the back to to achieve good (theoretical) RF performance. 
 
-![Penguino-STM32WL-LoRa-E5](docs/Penguino-STM32-E5.PNG)
+![Penguino-STM32WL-LoRa-E5](docs/penguino-lora-e5.jpg)
 _Current version: 0.1_
 
 Board requirements are standard: 
@@ -32,15 +32,15 @@ Board requirements are standard:
 - For further specs plese see the respective product pages. 
 
 
-
-
-
-### Contact:
-If you have any question or comments please feel free to open an issue discussion or drop me a message at [@azerimaker](https://twitter.com/azerimaker). 
-
 ### License:
 - Hardware license: CERN-OHL-S v2
 - Software license: under MIT unless otherise indicated 
 - Documentation license:  CC BY-SA 4.0 International.
 
+![OSHW License](docs/CERN-OHL-1.2_MIT_CC-BY-SA-4.0.svg)
 
+## Open Source Hardware
+This board is an OSHWA approved design: [AZ000003](https://certification.oshwa.org/az000003.html)
+
+### Contact:
+If you have any question or comments please feel free to open an issue (or a discussion or drop me a message at [@azerimaker](https://twitter.com/azerimaker). 
